@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react"
+import { useRef, useState } from "react"
 import Reaction from "./components/Reaction"
 import { Button } from "./components/ui/button"
 import { yesReactions } from "@/assets/yesReactions"
